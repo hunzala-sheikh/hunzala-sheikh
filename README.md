@@ -41,7 +41,7 @@ how much to retrain, keeping production models accurate at lower cost.
 
 **ML / CV:** PyTorch · torchvision · U-Net / ResUNet / HRNet / DeepLabV3 · DINOv2 · scikit-learn · OpenCV · scikit-image
 **Medical data:** DICOM · NIfTI · confocal z-stacks · time-lapse microscopy · annotation masks and polygons
-**Engineering:** Python · FastAPI · PostgreSQL · Next.js / TypeScript · Docker · GitHub Actions
+**Engineering:** Python · FastAPI · PostgreSQL · Next.js / TypeScript · GitHub Actions
 
 ---
 
